@@ -26,10 +26,10 @@ navbar-links:
   About Me: "aboutme"
   Publications:
     - Trasportation Research Record: "https://www.researchgate.net/publication/321589598_Evaluating_the_ability_of_transit_direct_ridership_models_to_forecast_medium-term_ridership_changes_Evidence_from_San_Francisco"
-  Categories: "categories"  #need to make a categories page that categorizes the blog posts
-    - Transportation
-      - Transit
-    - Economics
+  Categories:   #need to make a categories page that categorizes the blog posts
+    - Transportation: 
+      - Transit: "transit"
+    - Economics: "economics"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
