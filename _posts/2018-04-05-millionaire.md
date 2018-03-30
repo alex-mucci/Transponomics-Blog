@@ -1,19 +1,22 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: How to become a Millionaire by age 50
+subtitle: What is the best investment to make me a millionaire?
+gh-repo: alex-mucci/blog
+gh-badge:
+  - star
+  - fork
+  - follow
+tags:
+  - test
+published: true
+date: '2018-04-05'
 ---
+Still a work in progress... Thank you for your patience.
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
-**Here is some bold text**
 
-## Here is a secondary heading
-
-Here's a useless table:
+Here's a sample table:
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -23,9 +26,6 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
-
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Here's a code chunk:
 
@@ -54,20 +54,3 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
