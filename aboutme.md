@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Here is a short bio and ways to contact me. Thanks for reading and any feedback and new topics are welcome!
+subtitle: Thanks for reading and any feedback and new topics are welcome!
 ---
 
 ### Short Bio
