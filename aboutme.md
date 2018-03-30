@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Here is a short bio and ways to contact me. Thanks for reading and any feedback and new topics are welcome!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Short Bio
+My name is Alex Mucci. I have a bachelores and masters degree at the [University of Kentucky](www.uky.edu). I am currently pursuing a doctorate while working at the Kentucky Transportation Cabinent as an engineer in training. I love my job and research, but there are still things outside of their realm that interests me. That is where the [**Transponomics Blog**](alex-mucci.github.io/blog) comes in and fills the gaps. I take a data scientist approach when I am writting my blogs, so I apologize in advance for any dry writting :grin:. My goal is to answer transportation and economic questions people care about, but dont have the time to figure out. Feel free to email or message me any question you would like to see answered.  
