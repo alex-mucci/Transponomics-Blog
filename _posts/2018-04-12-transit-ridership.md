@@ -2,8 +2,8 @@
 layout: post
 title: A Dive into Transit Ridership
 subtitle: >-
-  What are the recent trends in transit ridership and what might be causing
-  them?
+  What are the recent trends in transit ridership? What might be causing the
+  trends?
 bigimg: /img/path.jpg
 tags:
   - transit
