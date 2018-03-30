@@ -25,7 +25,7 @@ description: An exciting blog that blends transportation and economics into the 
 navbar-links:
   About Me: "aboutme"
   Publications:
-    - Trasportation Research Record: "https://www.researchgate.net/publication/321589598_Evaluating_the_ability_of_transit_direct_ridership_models_to_forecast_medium-term_ridership_changes_Evidence_from_San_Francisco"
+    - Trasportation Research Record: "http://amonline.trb.org/2017trb-1.3983622/t027-1.3994219/712-1.3994749/18-06169-1.3991111/18-06169-1.3994758?qr=1"
   Categories:   #need to make a categories page that categorizes the blog posts
     - Transportation: "transportation"
     - Economics: "economics"
