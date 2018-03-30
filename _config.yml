@@ -44,7 +44,7 @@ avatar: "/img/alex1.jpg"
 
 navbar-col: "#404040"
 navbar-text-col: "#F5F5F5"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#404040"
 page-col: "#FFFFFF"
 link-col: "#F5F5F5"
 hover-col: "#0085A1"
@@ -74,15 +74,15 @@ social-network-links:
   rss: true
   email: "Alex.Mucci@uky.edu"
   facebook: alex.mucci1
+  linkedin: alex-mucci
   github: alex-mucci
   twitter: muchi56
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: alex-mucci
+  instagram: mucci__mane
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
   snapchat: muchi25
-  instagram: mucci__mane
 #  youtube: user/deanat78
 #  spotify: yourname
   telephone: +15023202934
