@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Thanks for reading and any feedback and new topics are welcome!
+subtitle: Thanks for reading, I hope you enjoyed it!
 ---
 
 ### Short Bio
