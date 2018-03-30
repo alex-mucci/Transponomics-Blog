@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to become a Millionaire by age 50
-subtitle: What is the best investment to make me a millionaire?
+title: Be a Millionaire by age 50
+subtitle: What is the best investment strategy to make me a millionaire?
 gh-repo: alex-mucci/blog
 gh-badge:
   - star
