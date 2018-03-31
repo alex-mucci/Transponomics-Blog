@@ -120,7 +120,7 @@ google_analytics: "UA-116685364-1"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "https-alex-mucci-github-io-blog"
 
 # Facebook App ID
 # fb_app_id: ""
