@@ -6,7 +6,7 @@ bigimg: /img/path.jpg
 tags:
   - transit
   - transportation
-published: true
+published: false
 date: '2018-04-12'
 ---
 
