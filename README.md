@@ -1,2 +1,2 @@
 # Transponomics Blog
-## A blog reseraching transportaion and economic related questions
+## A blog researching transportation and economic related questions
