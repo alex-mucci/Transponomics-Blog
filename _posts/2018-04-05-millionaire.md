@@ -32,7 +32,7 @@ date: '2018-12-08'
 
   Starting your retirement early is like rolling a snowball down a snowy hill. The bigger the snowball is at the beginning the exponentially bigger it will be at the bottom of the hill. Similarly, the more you invest in your 20s the exponentially more you will have when you retire. The tables below show various monthly investments at different interest rates to visualize the compounding interest effect. The payout is shown as a lump sum and a dividend at 4% interest to show the full amount along with how much you can spend yearly without depleting your money. The dividend at 4% interest represents financial freedom, because you would be living off of the money made through interest. A 35 year career length and an interest rate of 10% are assumed. The equation is shown below, in the case that you would like to plug your own numbers in. 
 
-## Equation for Future Value of Annuity Calculation
+## Equation for Future Value of Annuity
 ![]({{site.baseurl}}/img/annuity_calculation.JPG)
 
 
