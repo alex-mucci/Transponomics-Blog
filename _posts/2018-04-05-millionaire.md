@@ -32,19 +32,19 @@ date: '2018-12-08'
   Starting your retirement early is like rolling a snowball down a snowy hill. The bigger the snowball is at the beginning the exponentially bigger it will be at the bottom of the hill. Similarly, the more you invest in your 20s the exponentially more you will have when you retire. The tables below show various monthly investments at different interest rates to visualize the compounding interest effect. The payout is shown as a lump sum and a dividend at 4% interest to show the full amount along with how much you can spend yearly without depleting your money. The dividend at 4% interest represents financial freedom, because you would be living off of the money made through interest. A 35 year career length and an interest rate of 10% are assumed. The equation is shown below, in the case that you would like to plug your own numbers in. 
 
 ## Equation for Future Value of Annuity Calculation
-![](https://github.com/alex-mucci/Transponomics-Blog/blob/gh-pages/img/annuity_calculation.JPG)
+![]({{site.baseurl}}/img/annuity_calculation.JPG)
 
 
 ## Investing $10 a month the first year
-![](https://github.com/alex-mucci/Transponomics-Blog/blob/gh-pages/img/$10_table.JPG)
+![]({{site.baseurl}}/img/$10_table.JPG)
 
 
 ## Investing $100 a month the first year
-![](https://github.com/alex-mucci/Transponomics-Blog/blob/gh-pages/img/$100_table.JPG)
+![]({{site.baseurl}}/img/$100_table.JPG)
 
 
 ## Investing $500 a month the first year
-![](https://github.com/alex-mucci/Transponomics-Blog/blob/gh-pages/img/$500_table.JPG)
+![]({{site.baseurl}}/img/$500_table.JPG)
 
 
 The end result is that when you invest $490 more per month ($5,900 per year) during the first year that you are working, then you will have $580 more per month ($7,000 per year) to spend for the rest of your life post-retirement. As you can see, the amount you save has an even larger impact on your retirement as well.
