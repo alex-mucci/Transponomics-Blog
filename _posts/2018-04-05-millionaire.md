@@ -25,7 +25,7 @@ date: '2018-12-08'
 
   There are numerous ways to visualize your spending, but [**here**](https://github.com/alex-mucci/Transponomics-Blog/blob/gh-pages/img/Tracking%20My%20Financial%20Freedom.xlsx) is one that I find to be useful. The file incorporates your spending and investments (retirement) to visualize when your income from your investments exceeds your spending (**a.k.a. Financial Freedom**). 
 
-  Goals are tough to set and even tougher to achieve. Setting big goals seems smart because you are setting the bar high, but more often than not a person does not meet the big goal and is discouraged from continuing on. Realistic goals have less of an impact, but will encourage you as each is achieved. A good example of a realistic goal is setting a maximum weekly dollar amount that you will spend on food, or going out. This should be somewhere in the 5%-10% range for most people trying to save. I personally use You Need A Budget ([**YNAB**](https://www.youneedabudget.com/) to track my goals, which costs $7 a month to have. There are many free options as well, such as [**mint**](https://www.mint.com/). Both YNAB and mint have apps and websites for easy access. 
+  Goals are tough to set and even tougher to achieve. Setting big goals seems smart because you are setting the bar high, but more often than not a person does not meet the big goal and is discouraged from continuing on. Realistic goals have less of an impact, but will encourage you as each is achieved. A good example of a realistic goal is setting a maximum weekly dollar amount that you will spend on food, or going out. This should be somewhere in the 5%-10% range for most people trying to save. I personally use You Need A Budget ([**YNAB**](https://www.youneedabudget.com/)) to track my goals, which costs $7 a month to have. There are many free options as well, such as [**mint**](https://www.mint.com/). Both YNAB and mint have apps and websites for easy access. 
 
   Podcasts are a great way to learn new savings/investing strategies, along with keeping you excited about achieving financial freedom. I recommend [**Planet Money**](https://www.npr.org/podcasts/510289/planet-money) and [**Money for the Rest of Us**](https://moneyfortherestofus.com/episodes/). 
 
@@ -34,33 +34,18 @@ date: '2018-12-08'
 ## Equation for Future Value of Annuity Calculation
 ![](https://github.com/alex-mucci/Transponomics-Blog/blob/gh-pages/img/annuity_calculation.JPG)
 
+
 ## Investing $10 a month the first year
-| Monthly Investment | Retirement Lump Sum | Financial Freedom (4%) |
-| :------ |:--- | :--- |
-| 10 | $33,000 | $1,300 |
-| 50 | $151,000 | $6,000 |
-| 100 | $298,000 | $12,000 |
-| 250 | $740,000 | $30,000 |
-| 500 | $1,476,000 | $59,000 |
+![](https://github.com/alex-mucci/Transponomics-Blog/blob/gh-pages/img/$10_table.JPG)
 
 
 ## Investing $100 a month the first year
-| Monthly Investment | Retirement Lump Sum | Financial Freedom (4%) |
-| :------ |:--- | :--- |
-| 10 | $63,000 | $3,000 |
-| 50 | $181,000 | $7,000 |
-| 100 | $328,000 | $13,000 |
-| 250 | $770,000 | $31,000 |
-| 500 | $1,507,000 | $60,000 |
+![](https://github.com/alex-mucci/Transponomics-Blog/blob/gh-pages/img/$100_table.JPG)
+
 
 ## Investing $500 a month the first year
-| Monthly Investment | Retirement Lump Sum | Financial Freedom (4%) |
-| :------ |:--- | :--- |
-| 10 | $198,000 | $8,000 |
-| 50 | $316,000 | $13,000 |
-| 100 | $463,000 | $19,000 |
-| 250 | $905,000 | $36,000 |
-| 500 | $1,641,000 | $66,000 |
+![](https://github.com/alex-mucci/Transponomics-Blog/blob/gh-pages/img/$500_table.JPG)
+
 
 The end result is that when you invest $490 more per month ($5,900 per year) during the first year that you are working, then you will have $580 more per month ($7,000 per year) to spend for the rest of your life post-retirement. As you can see, the amount you save has an even larger impact on your retirement as well.
 
