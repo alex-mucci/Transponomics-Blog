@@ -25,7 +25,8 @@ description: An exciting blog that blends transportation and economics to unders
 navbar-links:
   About Me: "aboutme"
   Publications:
-    - Trasportation Research Record: "http://amonline.trb.org/2017trb-1.3983622/t027-1.3994219/712-1.3994749/18-06169-1.3991111/18-06169-1.3994758?qr=1"
+    - Transportation Research Record: "http://amonline.trb.org/2017trb-1.3983622/t027-1.3994219/712-1.3994749/18-06169-1.3991111/18-06169-1.3994758?qr=1"
+    - Masters Thesis: "https://uknowledge.uky.edu/ce_etds/61/"
   Categories:   #need to make a categories page that categorizes the blog posts
     - Transportation: "transportation"
     - Economics: "economics"
