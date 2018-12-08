@@ -12,7 +12,7 @@ tags:
   - investing
   - economics
 published: true
-share-img: '{{site.baseurl}}/img/wolf_money.jpg'
+share-img: 'https://github.com/alex-mucci/Transponomics-Blog/blob/gh-pages/img/wolf_money.jpg'
 date: '2018-12-08'
 ---
 
