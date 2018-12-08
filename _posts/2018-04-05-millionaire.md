@@ -18,11 +18,11 @@ date: '2018-12-08'
 
   Most everyone wants to be a millionaire, or at least live comfortably and not stress over money. About a month ago I fell under the category of wanting financial freedom, but not knowing any strategies to achieve it. Financial freedom is when you have reached a point that you are living off of the interest your investments payout. I have researched the topic and have a few things to share.
 
-1) Make a spreadsheet or somehow visualize your spending. It will put things into perspective. 
-2) Set goals... realistic goals
-3) Listen to podcasts or read about the topic. Listening to success stories and strategies can help keep you excited about saving money.
-4) Start early with your retirement.
-5) Do not give up! Don’t let a small slip up, or unexpected expense get you down.
+- Make a spreadsheet or somehow visualize your spending. It will put things into perspective. 
+- Set goals... realistic goals
+- Listen to podcasts or read about the topic. Listening to success stories and strategies can help keep you excited about saving money.
+- Start early with your retirement.
+- Do not give up! Don’t let a small slip up, or unexpected expense get you down.
 
   There are numerous ways to visualize your spending, but [**here**](https://github.com/alex-mucci/Transponomics-Blog/blob/gh-pages/img/Tracking%20My%20Financial%20Freedom.xlsx) is one that I find to be useful. The file incorporates your spending and investments (retirement) to visualize when your income from your investments exceeds your spending (**a.k.a. Financial Freedom**). 
 
