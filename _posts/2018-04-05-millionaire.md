@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Be a Millionaire by age 50
-subtitle: What is the best investment strategy to make me a millionaire?
+title: Financial Freedom and Becoming a Millionare
+subtitle: What is the best investment strategies to become financially free?
 gh-repo: alex-mucci/blog
 gh-badge:
   - star
@@ -15,7 +15,7 @@ published: true
 date: '2018-12-08'
 ---
 
-  Most everyone wants to be a millionare, or at least be able to live comfortably and not stress over money. About a month ago I fell under the category of wanting finicial freedom, but did not know of any strategies to achieve it. I have researched the topic and have a few things to share.
+  Most everyone wants to be a millionare, or at least be able to live comfortably and not stress over money. About a month ago I fell under the category of wanting finicial freedom, but not knowing any strategies to achieve it. Financial freedom is when you have reached a point that you are living off of the interest your investments payout. I have researched the topic and have a few things to share.
 
 1) Make a spreadsheet or somehow visualize your spending. It will put things into perspective. 
 2) Set goals... realistic goals
