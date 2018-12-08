@@ -15,7 +15,7 @@ published: true
 share-img: 'https://github.com/alex-mucci/Transponomics-Blog/blob/gh-pages/img/wolf_money.jpg'
 date: '2018-12-08'
 ---
-![wolf_money.jpg]({{site.baseurl}}/img/wolf_money.jpg)
+![wolf_money2.jpg]({{site.baseurl}}/img/wolf_money2.jpg)
 
 Most everyone wants to be a millionaire, or at least live comfortably and not stress over money. About a month ago I fell under the category of wanting financial freedom, but not knowing any strategies to achieve it. Financial freedom is when you have reached a point that you are living off of the interest your investments payout. I have researched the topic and have a few things to share.
 
