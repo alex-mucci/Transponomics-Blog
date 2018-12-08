@@ -36,7 +36,7 @@ date: '2018-12-08'
 
 
 ## Investing $10 a month the first year
-![]({{site.baseurl}}/img/10_table.JPG)
+![]({{site.baseurl}}/img/$10 table.JPG)
 
 
 ## Investing $100 a month the first year
