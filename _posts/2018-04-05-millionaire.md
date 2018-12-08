@@ -36,15 +36,15 @@ date: '2018-12-08'
 
 
 ## Investing $10 a month the first year
-![]({{site.baseurl}}/img/$10_table.JPG)
+![]({{site.baseurl}}/img/10_table.JPG)
 
 
 ## Investing $100 a month the first year
-![]({{site.baseurl}}/img/$100_table.JPG)
+![]({{site.baseurl}}/img/100_table.JPG)
 
 
 ## Investing $500 a month the first year
-![]({{site.baseurl}}/img/$500_table.JPG)
+![]({{site.baseurl}}/img/500_table.JPG)
 
 
 The end result is that when you invest $490 more per month ($5,900 per year) during the first year that you are working, then you will have $580 more per month ($7,000 per year) to spend for the rest of your life post-retirement. As you can see, the amount you save has an even larger impact on your retirement as well.
