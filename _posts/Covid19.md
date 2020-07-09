@@ -7,8 +7,6 @@ share-img: 'https://github.com/alex-mucci/blog/blob/gh-pages/img/Covid-19 Image.
 date: '2020-07-09'
 ---
 
-![KYTC logo.jpg]({{site.baseurl}}/img/KYTC logo.jpg)
-
 ### **Research Question**: 
 Is the covid-19 virus getting worse?
 
