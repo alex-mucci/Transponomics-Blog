@@ -34,20 +34,20 @@ smooths out a lot of noise in the data.
 
 **Figure 1**
 
-![]({{site.baseurl}}/img/covid_figure1.PNG)
+![]({{site.baseurl}}/img/covid_figure1.jpg)
 
 As you can clearly see the positive rate tests for the virus has declined since the first outbreak and has leveled off in the past month or so. There has been a large increase in 
 the number of tests given. Figure 2 illustrates the growth and Trump's twitter account will keep you updated on it as well. 
 
 **Figure 2**
-![]({{site.baseurl}}/img/covid_figure2.PNG)
+![]({{site.baseurl}}/img/covid_figure2.jpg)
 
 Figure 2 leads me to think that the increase in positive cases is due to the increase in testing. Figure 3 visualizes the change in daily positive tests. There is clearly a large
 jump in positive cases since mide June. Looking back to figure 2 does not show a sharp jump in the number of tests given. This lead me to question whether or not the postive rate
 of tests is a good measure of the spread of the virus. 
 
 **Figure 3**
-![]({{site.baseurl}}/img/covid_figure3.PNG)
+![]({{site.baseurl}}/img/covid_figure3.jpg)
 
 
 ### Number of Tests per Positive Test
@@ -57,7 +57,7 @@ The measure moves in the opposite direction of the previous measures. The differ
 good. This measure does a much better job at captureing the recent jump in positive cases since mid-June. 
 
 **Figure 4**
-![]({{site.baseurl}}/img/covid_figure4.PNG)
+![]({{site.baseurl}}/img/covid_figure4.jpg)
 
 
 ### Conclusion
