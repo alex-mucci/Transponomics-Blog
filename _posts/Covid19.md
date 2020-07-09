@@ -8,9 +8,11 @@ tags:
   - Coronavirus
   - Economy
   
-share-img: 'https://github.com/alex-mucci/blog/blob/gh-pages/img/Covid-19 Image.jpg'
+share-img: 'https://github.com/alex-mucci/blog/blob/gh-pages/img/Covid-19_Image.jpg'
 date: '2020-07-09'
 ---
+
+
 
 ### **Research Question**: 
 Is the covid-19 virus getting worse?
