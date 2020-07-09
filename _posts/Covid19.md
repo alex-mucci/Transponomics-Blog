@@ -3,6 +3,11 @@ layout: post
 title: What is going on with Covid-19?
 published: true
 subtitle: Exploring the covid-19 testing data
+tags:
+  - Covid-19
+  - Coronavirus
+  - Economy
+  
 share-img: 'https://github.com/alex-mucci/blog/blob/gh-pages/img/Covid-19 Image.jpg'
 date: '2020-07-09'
 ---
