@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is going on with Covid-19?
-published: true
+published: True
 subtitle: Exploring the covid-19 testing data
 tags:
   - Covid-19
